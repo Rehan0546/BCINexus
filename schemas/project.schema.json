@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://schemas.bcinexus.com/project.schema.json",
+  "$id": "https://schemas.bcinexus.xyz/project.schema.json",
   "title": "BCINexus Project",
   "type": "object",
   "required": ["id", "name", "created_at"],

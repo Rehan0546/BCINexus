@@ -6,7 +6,7 @@ BCINexus public API authentication is represented as bearer-token authentication
 
 ```bash
 export BCINEXUS_API_KEY="replace_me"
-export BCINEXUS_API_BASE_URL="https://api.bcinexus.com/v1"
+export BCINEXUS_API_BASE_URL="https://api.bcinexus.xyz/v1"
 ```
 
 ## Request

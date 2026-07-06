@@ -5,7 +5,7 @@ BCINexus API authentication uses bearer tokens or scoped API keys. Public API ac
 ## Example Request
 
 ```bash
-curl "https://api.bcinexus.com/v1/projects" \
+curl "https://api.bcinexus.xyz/v1/projects" \
   -H "Authorization: Bearer $BCINEXUS_API_KEY" \
   -H "Accept: application/json"
 ```

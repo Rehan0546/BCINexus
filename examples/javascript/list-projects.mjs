@@ -1,4 +1,4 @@
-const apiBaseUrl = process.env.BCINEXUS_API_BASE_URL ?? "https://api.bcinexus.com/v1";
+const apiBaseUrl = process.env.BCINEXUS_API_BASE_URL ?? "https://api.bcinexus.xyz/v1";
 const apiKey = process.env.BCINEXUS_API_KEY;
 
 if (!apiKey) {

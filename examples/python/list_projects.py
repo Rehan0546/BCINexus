@@ -7,7 +7,7 @@ import os
 import urllib.request
 
 
-API_BASE_URL = os.getenv("BCINEXUS_API_BASE_URL", "https://api.bcinexus.com/v1")
+API_BASE_URL = os.getenv("BCINEXUS_API_BASE_URL", "https://api.bcinexus.xyz/v1")
 API_KEY = os.getenv("BCINEXUS_API_KEY")
 
 

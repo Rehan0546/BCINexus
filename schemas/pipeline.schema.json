@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://schemas.bcinexus.com/pipeline.schema.json",
+  "$id": "https://schemas.bcinexus.xyz/pipeline.schema.json",
   "title": "BCINexus Pipeline Artifact",
   "type": "object",
   "required": ["id", "name", "version", "steps"],

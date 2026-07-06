@@ -88,7 +88,7 @@ No BCINexus or BCILattice proprietary dependencies are required to use this repo
 Example REST request:
 
 ```bash
-curl -X GET "https://api.bcinexus.com/v1/projects" \
+curl -X GET "https://api.bcinexus.xyz/v1/projects" \
   -H "Authorization: Bearer $BCINEXUS_API_KEY" \
   -H "Accept: application/json"
 ```

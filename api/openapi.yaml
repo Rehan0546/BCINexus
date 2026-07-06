@@ -10,7 +10,7 @@ info:
     name: MIT
     url: https://github.com/Rehan0546/BCINexus/blob/main/LICENSE
 servers:
-  - url: https://api.bcinexus.com/v1
+  - url: https://api.bcinexus.xyz/v1
     description: Placeholder production API base URL.
 security:
   - bearerAuth: []

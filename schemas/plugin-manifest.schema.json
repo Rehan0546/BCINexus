@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://schemas.bcinexus.com/plugin-manifest.schema.json",
+  "$id": "https://schemas.bcinexus.xyz/plugin-manifest.schema.json",
   "title": "BCINexus Plugin Manifest",
   "type": "object",
   "required": ["id", "name", "version", "entry", "permissions"],

@@ -5,7 +5,7 @@ The public BCINexus API contract is currently represented by a draft OpenAPI spe
 ## Base URL
 
 ```text
-https://api.bcinexus.com/v1
+https://api.bcinexus.xyz/v1
 ```
 
 This base URL reflects the production API. Public developer access is launching soon.
