@@ -2,7 +2,7 @@
 
 ## Is this the BCINexus source code?
 
-No. This is the public developer hub for documentation, examples, schemas, API placeholders, and community collaboration.
+No. This is the public developer hub for documentation, examples, schemas, API contracts, and community collaboration.
 
 ## Is this the BCILattice source code?
 
@@ -10,11 +10,11 @@ No. BCILattice remains a closed-source local research application. This reposito
 
 ## Are the APIs production-ready?
 
-Not yet. API documents are placeholders until public API access is announced.
+The production API is live and running today. Public developer access (API keys, self-serve docs) is launching soon.
 
 ## Can I build an integration today?
 
-You can build against the public examples and draft schemas for planning and feedback. Production integrations should wait for stable public API and SDK releases.
+You can build against the public examples and draft schemas for planning and feedback today. Production integrations should wait for the public API launch, coming soon.
 
 ## Where should I ask questions?
 

@@ -7,7 +7,7 @@ The BCINexus ecosystem is organized around public contracts and closed commercia
 | Component | Role | Public in this repository |
 | --- | --- | --- |
 | BCILattice | Local research application | Public schemas and workflow examples only |
-| BCINexus | Cloud and developer layer | API placeholders, docs, examples, public contracts |
+| BCINexus | Cloud and developer layer | API contracts (production API live, public access launching soon), docs, examples |
 | SDKs | Future language-specific clients | Roadmap and placeholder docs |
 | Plugins | Future extension mechanism | Draft manifest schema and guide |
 | Hardware integrations | Device and acquisition guidance | Public integration patterns only |

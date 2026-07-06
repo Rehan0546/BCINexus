@@ -8,7 +8,7 @@ The public BCINexus API contract is currently represented by a draft OpenAPI spe
 https://api.bcinexus.com/v1
 ```
 
-This base URL is a placeholder until production public API availability is announced.
+This base URL reflects the production API. Public developer access is launching soon.
 
 ## Public API Areas
 
@@ -29,4 +29,4 @@ Public APIs should use explicit version prefixes, such as `/v1`. Breaking change
 - `preview`: Available to selected developers. May change with notice.
 - `stable`: Supported public contract.
 
-Current status: `draft`.
+Current status: `preview`. The production API is live and running; public developer access is launching soon.

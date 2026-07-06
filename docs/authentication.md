@@ -1,8 +1,8 @@
 # Authentication Guide
 
-BCINexus API authentication is expected to use bearer tokens or scoped API keys when public API access is released.
+BCINexus API authentication uses bearer tokens or scoped API keys. Public API access is launching soon.
 
-## Placeholder Request
+## Example Request
 
 ```bash
 curl "https://api.bcinexus.com/v1/projects" \
@@ -18,7 +18,7 @@ curl "https://api.bcinexus.com/v1/projects" \
 - Rotate credentials regularly.
 - Separate development, staging, and production credentials.
 
-## Planned Token Scopes
+## Token Scopes
 
 | Scope | Purpose |
 | --- | --- |
@@ -28,4 +28,4 @@ curl "https://api.bcinexus.com/v1/projects" \
 | `pipelines:write` | Publish or update pipeline artifacts |
 | `plugins:read` | Discover public plugins |
 
-Scopes are placeholders until public API access is released.
+Public API access, including these scopes, is launching soon.

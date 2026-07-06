@@ -12,7 +12,7 @@ This repository is not the source code for BCINexus or BCILattice. It contains p
 
 ## Status
 
-This repository is prepared as the official public GitHub home for BCINexus developer resources. Public SDKs, production API access, plugin registries, and hardware integration packages may be introduced over time. Until those releases are public, this repository uses explicit placeholders and stable draft schemas so integrators can plan safely.
+This repository is the official public GitHub home for BCINexus developer resources. The production API is built and running; public developer access is launching soon. Public SDKs, plugin registries, and hardware integration packages will follow over time. Until each surface is public, this repository uses explicit placeholders and stable draft schemas so integrators can plan safely.
 
 ## Table of Contents
 
@@ -93,7 +93,7 @@ curl -X GET "https://api.bcinexus.com/v1/projects" \
   -H "Accept: application/json"
 ```
 
-The endpoint above is a public-contract placeholder until production API access is announced.
+The endpoint above reflects the production API contract. Public developer access (API keys, docs sign-up) is launching soon.
 
 ## Documentation
 
