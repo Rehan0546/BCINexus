@@ -1,0 +1,27 @@
+{
+  "id": "eeg_preprocessing_public_example",
+  "name": "EEG preprocessing public example",
+  "version": "0.1.0",
+  "modality": "EEG",
+  "steps": [
+    {
+      "id": "bandpass_filter",
+      "type": "preprocessing.filter",
+      "parameters": {
+        "low_hz": 1,
+        "high_hz": 40
+      }
+    },
+    {
+      "id": "artifact_review",
+      "type": "quality.artifact_review",
+      "parameters": {
+        "mode": "manual_review"
+      }
+    }
+  ],
+  "metadata": {
+    "dataset": "synthetic",
+    "purpose": "public documentation"
+  }
+}

@@ -1,0 +1,17 @@
+title: "[Integration]: "
+labels: ["integration"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Integration question
+      description: What are you trying to build with BCINexus public resources?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Include public schemas, examples, or docs you are using.
+    validations:
+      required: false

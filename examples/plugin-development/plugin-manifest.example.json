@@ -1,0 +1,12 @@
+{
+  "id": "example.signal-quality-plugin",
+  "name": "Signal Quality Plugin Example",
+  "version": "0.1.0",
+  "entry": "dist/index.js",
+  "description": "Synthetic plugin manifest example for public documentation.",
+  "permissions": ["project:read", "pipeline:read"],
+  "compatibility": {
+    "bcinexus": ">=0.1.0",
+    "bcilattice": ">=0.1.0"
+  }
+}

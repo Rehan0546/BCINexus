@@ -1,0 +1,32 @@
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Release version, for example v0.1.0
+        required: true
+        type: string
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Create GitHub release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Package public artifacts
+        run: |
+          mkdir -p dist
+          tar -czf dist/bcinexus-public-resources.tar.gz README.md LICENSE CHANGELOG.md docs examples api schemas assets
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/bcinexus-public-resources.tar.gz
+          generate_release_notes: true

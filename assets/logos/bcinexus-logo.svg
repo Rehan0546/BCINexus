@@ -1,0 +1,11 @@
+<svg width="720" height="180" viewBox="0 0 720 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">BCINexus logo</title>
+  <desc id="desc">BCINexus public developer hub wordmark.</desc>
+  <rect width="720" height="180" rx="24" fill="#0F172A"/>
+  <g transform="translate(44 42)">
+    <circle cx="48" cy="48" r="40" stroke="#06B6D4" stroke-width="10"/>
+    <path d="M24 50H72M48 26V74M30 30L66 66M66 30L30 66" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="154" y="102" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="700">BCINexus</text>
+  <text x="158" y="132" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="18">Developer ecosystem for BCILattice workflows</text>
+</svg>

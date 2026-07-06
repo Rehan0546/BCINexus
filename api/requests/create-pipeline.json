@@ -1,0 +1,9 @@
+{
+  "name": "EEG preprocessing baseline",
+  "version": "0.1.0",
+  "modality": "EEG",
+  "metadata": {
+    "artifact_type": "pipeline",
+    "status": "draft"
+  }
+}
