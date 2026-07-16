@@ -20,13 +20,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Package public artifacts
         run: |
           mkdir -p dist
           tar -czf dist/bcinexus-public-resources.tar.gz README.md LICENSE CHANGELOG.md docs examples api schemas assets
       - name: Create release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           files: dist/bcinexus-public-resources.tar.gz
           generate_release_notes: true
