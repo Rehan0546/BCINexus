@@ -14,7 +14,7 @@ Do not report vulnerabilities in public GitHub issues. Use responsible disclosur
 
 ## Reporting a Vulnerability
 
-Email: security@bcinexus.xyz
+Email: <security@bcinexus.xyz>
 
 Include:
 

@@ -18,7 +18,7 @@ You can build against the public examples and draft schemas for planning and fee
 
 ## Where should I ask questions?
 
-Use GitHub Discussions for integration planning and community questions. Use security@bcinexus.xyz for vulnerabilities.
+Use GitHub Discussions for integration planning and community questions. Use <security@bcinexus.xyz> for vulnerabilities.
 
 ## Can I contribute examples?
 

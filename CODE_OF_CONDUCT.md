@@ -22,4 +22,4 @@ We are committed to a professional, respectful, and inclusive developer communit
 
 Maintainers may moderate issues, discussions, pull requests, or users to protect the quality and safety of the project.
 
-Report conduct concerns to conduct@bcinexus.xyz.
+Report conduct concerns to <conduct@bcinexus.xyz>.
