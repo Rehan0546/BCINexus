@@ -26,8 +26,7 @@ BCINexus should be described as a developer ecosystem, cloud layer, and public i
 
 | Token | Hex |
 | --- | --- |
-| Nexus Navy | `#0F172A` |
-| Signal Cyan | `#06B6D4` |
-| Research Blue | `#2563EB` |
-| Lab Slate | `#64748B` |
+| Brand Purple | `#C084FC` |
+| Brand Teal | `#0D9488` |
+| Dark Background | `#080D18` |
 | White | `#FFFFFF` |

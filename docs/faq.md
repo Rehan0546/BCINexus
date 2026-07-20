@@ -10,11 +10,11 @@ No. BCILattice remains a closed-source local research application. This reposito
 
 ## Are the APIs production-ready?
 
-The production API is live and running today. Public developer access (API keys, self-serve docs) is launching soon.
+BCINexus operates a live cloud service, but the public developer API contract documented in this repository (`api/openapi.yaml`) is still a draft — not yet a stable, publicly callable endpoint. Public developer access (API keys, self-serve docs) is launching soon.
 
 ## Can I build an integration today?
 
-You can build against the public examples and draft schemas for planning and feedback today. Production integrations should wait for the public API launch, coming soon.
+You can build against the public examples and draft schemas for planning and feedback today. Production integrations should wait for the public API launch, since the exact endpoints, auth model, and scopes shown here may still change before then.
 
 ## Where should I ask questions?
 
